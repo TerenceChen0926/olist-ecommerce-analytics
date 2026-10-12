@@ -1,0 +1,1 @@
+{"$schema":"https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json","name":"3454fad9a592935ea5de","displayName":"Customer Experience","displayOption":"FitToPage","height":720,"width":1280,"objects":{"outspacePane":[{"properties":{"width":{"expr":{"Literal":{"Value":"201L"}}}}}]}}
