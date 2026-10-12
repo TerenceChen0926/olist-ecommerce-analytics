@@ -99,3 +99,17 @@ The project files are stored under `olist-ecommerce-analytics/`. Paths below are
 - Review count is a count of records, not necessarily unique orders or customers. Review text classification and delivery-risk prediction remain future work.
 
 Data attribution: **Olist**, [Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), listed under **CC BY-NC-SA 4.0**. Consult the source terms for reuse, including derived data-bearing artifacts. This repository does not grant an additional license to the dataset.
+
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](olist-ecommerce-analytics/images/executive-overview.png)
+
+### Logistics Analysis
+
+![Logistics Analysis](olist-ecommerce-analytics/images/logistics-analysis.png)
+
+### Customer Experience
+
+![Customer Experience](olist-ecommerce-analytics/images/customer-experience.png)
